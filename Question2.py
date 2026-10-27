@@ -1,3 +1,6 @@
+# Name: [Bohan Wang]
+# Assignment One
+
 print("Question Answering Bot")
 question = input("Ask me something: ")
 if question == "hello":
